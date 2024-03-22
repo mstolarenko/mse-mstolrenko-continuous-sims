@@ -2,6 +2,8 @@
 
 > * Participant name: Maxwell Stolarenko
 
+This repository is a reupload of a project I worked on as a Modeling and Simulation graduate student at the University of Central Florida to allow for public access. All work shown here was written by me.
+
 ## General Introduction
 A Continuous-based Simulation of a model systematically solves mathematical representations of dynamic systems. These mathematical equations are usually described by sets of either ordinary or partial differential equations [possibly coupled with algebraic equations]. The equations are simulated on a digital computer by numerical simulation. The most common form for these equations take are *Initial Value Problems* (IVP). Modeling a system frequently requires solving an initial value problem; in this context, the differential initial value is an equation that is an evolution equation specifying how, given initial conditions, the system will evolve with time.
 
